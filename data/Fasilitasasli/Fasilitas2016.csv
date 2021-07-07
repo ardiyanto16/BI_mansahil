@@ -1,0 +1,110 @@
+Nama;Rasio;Satuan;Keterangan;Tahun
+Ruang Belajar;11;Ruangan;Ruang Belajar;2016
+Kursi Siswa;1;Buah Per Siswa;Ruang Belajar;2016
+Meja Siswa;1;Buah Per Siswa;Ruang Belajar;2016
+Kursi Guru;1;Buah Per Ruangan;Ruang Belajar;2016
+Lemari;1;Buah Per Ruangan;Ruang Belajar;2016
+Papan Tulis;1;Buah Per Ruangan;Ruang Belajar;2016
+Tempat Sampah;1;Buah Per Ruangan;Ruang Belajar;2016
+Stop Kontak;1;Buah Per Ruangan;Ruang Belajar;2016
+Perpustakaan;1;Ruangan;Ruang Perpustakaan;2016
+Buku Teks Pelajaran;1;Buku Per Mata Pelajaran Per Siswa;Ruang Perpustakaan;2016
+Buku Teks Pelajaran;2;Buku Per Mata Pelajaran Per Sekolah;Ruang Perpustakaan;2016
+Buku Panduan Guru;1;Buku Per Mata Pelajaran;Ruang Perpustakaan;2016
+Buku Pengayaan;600;Judul Per Sekolah;Ruang Perpustakaan;2016
+Buku Referensi;20;Judul Per Sekolah;Ruang Perpustakaan;2016
+Sumber Belajar Lain;25;Judul Per Sekolah;Ruang Perpustakaan;2016
+Meja Kerja;1;Buah Per Petugas;Ruang Perpustakaan;2016
+Lemari Katalog;1;Buah Per Sekolah;Ruang Perpustakaan;2016
+Lemari;1;Buah Per Sekolah;Ruang Perpustakaan;2016
+Rak Buku;1;Set Per Sekolah;Ruang Perpustakaan;2016
+Meja Baca;10;Buah Per Sekolah;Ruang Perpustakaan;2016
+Kursi Baca;10;Buah Per Sekolah;Ruang Perpustakaan;2016
+Kursi Kerja;1;Buah Per Petugas;Ruang Perpustakaan;2016
+Tempat Sampah;1;Buah Per Ruangan;Ruang Perpustakaan;2016
+Stop Kontak;1;Buah Per Ruangan;Ruang Perpustakaan;2016
+Jam Dinding;1;Buah Per Ruangan;Ruang Perpustakaan;2016
+Laboratorium Fisika Kimia dan Biologi;1;Ruangan;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Kursi;1;Buah Per Siswa;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Meja;1;Buah Per 3 Siswa;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Lemari Alat;1;Buah Per Lab;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Lemari Bahan;1;Buah Per Lab;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Model Kerangka Manusia;1;Buah Per Lab;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Mikroskop Monokuler;2;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Mister;6;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Rolmeter;6;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Jangka Sorong;6;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Papan Tulis;1;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Botol Zat;24;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Gelas Kimia;12;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Botol Semprot;15;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Ph Meter;2;Set;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Kaca Arlogi;10;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Pipet Tetes;50;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2016
+Laboratorium Komputer;1;Ruangan;Ruang Laboratorium Komputer;2016
+Kursi Siswa;1;Buah per Siswa;Ruang Laboratorium Komputer;2016
+Meja Siswa;1;Buah per dua siswa;Ruang Laboratorium Komputer;2016
+Meja Guru;1;Buah;Ruang Laboratorium Komputer;2016
+Kursi Guru;1;Buah;Ruang Laboratorium Komputer;2016
+Komputer;1;Unit per dua siswa;Ruang Laboratorium Komputer;2016
+Papan Tulis;1;Buah;Ruang Laboratorium Komputer;2016
+Tempat Sampah;1;Buah;Ruang Laboratorium Komputer;2016
+Kursi Pimpinan;1;Buah;Ruang Pimpinan;2016
+Meja Pimpinan;1;Buah;Ruang Pimpinan;2016
+Kursi dan Meja Tamu;1;Set;Ruang Pimpinan;2016
+Lemari;1;Buah;Ruang Pimpinan;2016
+Papan Statistik;1;Buah;Ruang Pimpinan;2016
+Simbol Kenegaraan;1;Set;Ruang Pimpinan;2016
+Tempat Sampah;1;Buah;Ruang Pimpinan;2016
+Ruang Kuriulum;1;Ruangan;Ruangan Kurikulum;2016
+Kursi Kerja;1;Buah per Petugas;Ruangan Kurikulum;2016
+Meja Kerja;1;Buah Per Petugas;Ruangan Kurikulum;2016
+Printer;1;Unit;Ruangan Kurikulum;2016
+Lemari;5;Buah;Ruangan Kurikulum;2016
+Ruang Guru dan Wakil Kepala;2;Ruangan;Ruang Guru;2016
+Kursi Kerja;1;Buah Per Guru;Ruang Guru;2016
+Meja Kursi;1;Buah Per Guru;Ruang Guru;2016
+Lemari;1;Buah Per Ruangan;Ruang Guru;2016
+Papan Pengumuman;1;Buah;Ruang Guru;2016
+Tempat Sampah;1;Buah;Ruang Guru;2016
+Jam Dinding;1;Buah;Ruang Guru;2016
+Ruang Administrasi;2;Ruangan;Ruang Administrasi;2016
+Kursi Kerja;1;Buah Per Petugas;Ruang Administrasi;2016
+Meja Kursi;1;Buah Per Petugas;Ruang Administrasi;2016
+Lemari;2;Buah;Ruang Administrasi;2016
+Printer;2;Unit;Ruang Administrasi;2016
+Komputer;2;Buah ;Ruang Administrasi;2016
+Tempat Sampah;2;Buah;Ruang Administrasi;2016
+Telepon;2;Buah;Ruang Administrasi;2016
+Jam Dinding;2;Buah;Ruang Administrasi;2016
+Sajadah;20;Buah;Aula dan Tempat Ibadah;2016
+Kipas Angin;4;Unit;Aula dan Tempat Ibadah;2016
+Meja Kerja;1;buah;Ruang Konseling;2016
+Kursi Kerja;1;Buah;Ruang Konseling;2016
+Kursi Tamu;2;Buah;Ruang Konseling;2016
+Lemari;1;Buah;Ruang Konseling;2016
+Papan Kegiatan;1;Buah;Ruang Konseling;2016
+Instrumen Konseling;1;Set;Ruang Konseling;2016
+Buku Sumber;1;Set;Ruang Konseling;2016
+Jam Dinding;1;Buah;Ruang Konseling;2016
+Tempat Tidur;1;Set;Ruang UKS;2016
+Lemari;1;Buah;Ruang UKS;2016
+Meja;1;Buah;Ruang UKS;2016
+Kursi;1;Buah;Ruang UKS;2016
+Selimut;1;Buah;Ruang UKS;2016
+Perlengkapan P3K;1;Set;Ruang UKS;2016
+Tempat Sampah;1;Buah;Ruang UKS;2016
+Jam Dinding;1;Buah;Ruang UKS;2016
+Meja;1;Buah;Ruang Organisasi;2016
+Kursi;4;Buah;Ruang Organisasi;2016
+Papan Tulis;1;Buah;Ruang Organisasi;2016
+Lemari;1;Buah;Ruang Organisasi;2016
+Jam Dinding;1;Buah;Ruang Organisasi;2016
+Toilet Siswa wanita;1;Unit;Toilet;2016
+Toilet Siswa Pria;1;Unit;Toilet;2016
+Toilet Guru dan Karyawan;1;Unit;Toilet;2016
+Gudang;1;Unit;Gudang;2016
+Bendera dan Tiang Bendera;1;Set;Tempat Bermain Kesenian dan Upacara;2016
+Peralatan Olahraga;1;Set;Tempat Bermain Kesenian dan Upacara;2016
+Kantin;2;Unit;Kantin;2016
+Tempat Parkir;1;Unit;Parkir;2016

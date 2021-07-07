@@ -1,0 +1,91 @@
+Nama;Rasio;Satuan;Keterangan;Tahun
+Ruang Belajar;9;Ruangan;Ruang Belajar;2014
+Kursi Siswa;1;Buah Per Siswa;Ruang Belajar;2014
+Meja Siswa;1;Buah Per Siswa;Ruang Belajar;2014
+Kursi Guru;1;Buah Per Ruangan;Ruang Belajar;2014
+Lemari;1;Buah Per Ruangan;Ruang Belajar;2014
+Papan Tulis;1;Buah Per Ruangan;Ruang Belajar;2014
+Tempat Sampah;1;Buah Per Ruangan;Ruang Belajar;2014
+Stop Kontak;1;Buah Per Ruangan;Ruang Belajar;2014
+Perpustakaan;1;Ruangan;Ruang Perpustakaan;2014
+Buku Teks Pelajaran;1;Buku Per Mata Pelajaran Per Siswa;Ruang Perpustakaan;2014
+Buku Teks Pelajaran;2;Buku Per Mata Pelajaran Per Sekolah;Ruang Perpustakaan;2014
+Buku Panduan Guru;1;Buku Per Mata Pelajaran;Ruang Perpustakaan;2014
+Buku Pengayaan;600;Judul Per Sekolah;Ruang Perpustakaan;2014
+Buku Referensi;20;Judul Per Sekolah;Ruang Perpustakaan;2014
+Sumber Belajar Lain;25;Judul Per Sekolah;Ruang Perpustakaan;2014
+Meja Kerja;1;Buah Per Petugas;Ruang Perpustakaan;2014
+Lemari Katalog;1;Buah Per Sekolah;Ruang Perpustakaan;2014
+Lemari;1;Buah Per Sekolah;Ruang Perpustakaan;2014
+Rak Buku;1;Set Per Sekolah;Ruang Perpustakaan;2014
+Meja Baca;10;Buah Per Sekolah;Ruang Perpustakaan;2014
+Kursi Baca;10;Buah Per Sekolah;Ruang Perpustakaan;2014
+Kursi Kerja;1;Buah Per Petugas;Ruang Perpustakaan;2014
+Tempat Sampah;1;Buah Per Ruangan;Ruang Perpustakaan;2014
+Stop Kontak;1;Buah Per Ruangan;Ruang Perpustakaan;2014
+Jam Dinding;1;Buah Per Ruangan;Ruang Perpustakaan;2014
+Laboratorium Fisika Kimia dan Biologi;1;Ruangan;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Kursi;1;Buah Per Siswa;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Meja;1;Buah Per 3 Siswa;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Lemari Alat;1;Buah Per Lab;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Lemari Bahan;1;Buah Per Lab;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Model Kerangka Manusia;1;Buah Per Lab;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Mikroskop Monokuler;2;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Mister;6;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Rolmeter;6;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Jangka Sorong;6;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Papan Tulis;1;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Botol Zat;24;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Pipet Tetes;50;Buah;Ruang Laboratorium Fisika Kimia dan Biologi;2014
+Kursi Pimpinan;1;Buah;Ruang Pimpinan;2014
+Meja Pimpinan;1;Buah;Ruang Pimpinan;2014
+Kursi dan Meja Tamu;1;Set;Ruang Pimpinan;2014
+Lemari;1;Buah;Ruang Pimpinan;2014
+Papan Statistik;1;Buah;Ruang Pimpinan;2014
+Simbol Kenegaraan;1;Set;Ruang Pimpinan;2014
+Tempat Sampah;1;Buah;Ruang Pimpinan;2014
+Ruang Guru dan Wakil Kepala;2;Ruangan;Ruang Guru;2014
+Kursi Kerja;1;Buah Per Guru;Ruang Guru;2014
+Meja Kursi;1;Buah Per Guru;Ruang Guru;2014
+Lemari;1;Buah Per Ruangan;Ruang Guru;2014
+Papan Pengumuman;1;Buah;Ruang Guru;2014
+Tempat Sampah;1;Buah;Ruang Guru;2014
+Jam Dinding;1;Buah;Ruang Guru;2014
+Kursi Kerja;1;Buah Per Petugas;Ruang Administrasi;2014
+Meja Kursi;1;Buah Per Petugas;Ruang Administrasi;2014
+Lemari;1;Buah;Ruang Administrasi;2014
+Komputer;1;Buah ;Ruang Administrasi;2014
+Tempat Sampah;1;Buah;Ruang Administrasi;2014
+Telepon;1;Buah;Ruang Administrasi;2014
+Jam Dinding;1;Buah;Ruang Administrasi;2014
+Sajadah;20;Buah;Aula dan Tempat Ibadah;2014
+Kipas Angin;4;Unit;Aula dan Tempat Ibadah;2014
+Meja Kerja;1;buah;Ruang Konseling;2014
+Kursi Kerja;1;Buah;Ruang Konseling;2014
+Kursi Tamu;2;Buah;Ruang Konseling;2014
+Lemari;1;Buah;Ruang Konseling;2014
+Papan Kegiatan;1;Buah;Ruang Konseling;2014
+Instrumen Konseling;1;Set;Ruang Konseling;2014
+Buku Sumber;1;Set;Ruang Konseling;2014
+Jam Dinding;1;Buah;Ruang Konseling;2014
+Tempat Tidur;1;Set;Ruang UKS;2014
+Lemari;1;Buah;Ruang UKS;2014
+Meja;1;Buah;Ruang UKS;2014
+Kursi;1;Buah;Ruang UKS;2014
+Selimut;1;Buah;Ruang UKS;2014
+Perlengkapan P3K;1;Set;Ruang UKS;2014
+Tempat Sampah;1;Buah;Ruang UKS;2014
+Jam Dinding;1;Buah;Ruang UKS;2014
+Meja;1;Buah;Ruang Organisasi;2014
+Kursi;4;Buah;Ruang Organisasi;2014
+Papan Tulis;1;Buah;Ruang Organisasi;2014
+Lemari;1;Buah;Ruang Organisasi;2014
+Jam Dinding;1;Buah;Ruang Organisasi;2014
+Toilet Siswa wanita;1;Unit;Toilet;2014
+Toilet Siswa Pria;1;Unit;Toilet;2014
+Toilet Guru dan Karyawan;1;Unit;Toilet;2014
+Gudang;1;Unit;Gudang;2014
+Bendera dan Tiang Bendera;1;Set;Tempat Bermain Kesenian dan Upacara;2014
+Peralatan Olahraga;1;Set;Tempat Bermain Kesenian dan Upacara;2014
+Kantin;2;Unit;Kantin;2014
+Tempat Parkir;1;Unit;Parkir;2014
